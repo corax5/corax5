@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **react, nextjs.**
 
-- 👨‍💻 Puedes saber mas sobre mi en: [Aun no disponible.](Aun no disponible.)
+- 👨‍💻 Puedes saber mas sobre mi en: https://corax5.github.io/
 
 - 📫 Contacto: **icortesdev@proton.me**
 
