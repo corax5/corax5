@@ -1,7 +1,7 @@
 <h1 align="center">Hola!👋 Soy Irian</h1>
 <h3 align="center">FRONT END DEVELOPER</h3>
 
-- 🌱 I’m currently learning **react, nextjs.**
+- 🌱 Actualmente estoy aprendiendo **react, nextjs.**
 
 - 👨‍💻 Puedes saber mas sobre mi en: https://corax5.github.io/
 
