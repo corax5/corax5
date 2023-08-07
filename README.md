@@ -3,7 +3,7 @@
 
 - 🌱 Actualmente estoy aprendiendo **react, nextjs.**
 
-- 👨‍💻 Puedes saber mas sobre mi en: https://corax5.github.io/
+- 👨‍💻 Puedes saber mas sobre mi en: https://icortesdev.vercel.app/
 
 - 📫 Contacto: **icortesdev@proton.me**
 
