@@ -1,7 +1,7 @@
 <h1 align="center">Hola!👋 Soy Irian</h1>
 <h3 align="center">FRONT END DEVELOPER</h3>
 
-- 🌱 Actualmente estoy aprendiendo **react, nextjs.**
+- 🌱 Actualmente estoy aprendiendo **React, Nextjs.**
 
 - 👨‍💻 Puedes saber mas sobre mi en: https://icortesdev.vercel.app
 
