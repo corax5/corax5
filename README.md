@@ -1,7 +1,7 @@
 <h1 align="center">Hola!👋 Soy Irian Cortés</h1>
 <h3 align="center">FRONT END DEVELOPER</h3>
 
-- 🌱 Actualmente estoy aprendiendo sobre **Angular**
+- 🌱 Actualmente estoy aprendiendo sobre **Nextjs**
 
 - 👨‍💻 Puedes saber mas sobre mi en: https://www.icortes.dev/
 
