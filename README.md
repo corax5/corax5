@@ -3,7 +3,7 @@
 
 - 🌱 Actualmente estoy aprendiendo sobre **Nextjs**
 
-- 👨‍💻 Puedes saber mas sobre mi en: https://www.icortes.dev/
+- 👨‍💻 Puedes saber mas sobre mi en: <a href="https://www.icortes.dev/"> icortes.dev </a>
 
 - 📫 Contacto: **icortesdev@proton.me**
 
