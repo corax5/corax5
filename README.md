@@ -5,7 +5,7 @@
 
 - 👨‍💻 Puedes saber mas sobre mi en: <a href="https://www.icortes.dev/" target="_blank"> icortes.dev </a>
 
--💡 Otros datos: Contributor en <a href="https://veteranscrew.xyz/" target="_blank"> VeteransCrew </a>
+- 💡 Otros datos: Contributor en <a href="https://veteranscrew.xyz/" target="_blank"> VeteransCrew </a>
 
 - 📫 Contacto: **icortesdev@proton.me**
 
